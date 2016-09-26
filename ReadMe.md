@@ -1,2 +1,2 @@
-#Markbin
-##A Collaborative markdown editor build with react and meteor
+# Markbin
+## A Collaborative markdown editor build with react and meteor

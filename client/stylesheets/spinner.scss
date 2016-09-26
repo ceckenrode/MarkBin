@@ -1,0 +1,17 @@
+.spinner {
+    padding-top: 150px;
+    
+    .wordpress {
+        height: 200px;
+        width: 200px;
+        border-radius: 200px;
+
+        .inner-circle {
+            width: 60px;
+            height: 60px;
+            border-radius: 60px;
+            top: 35px;
+            left: 35px;
+        }
+    }
+}
